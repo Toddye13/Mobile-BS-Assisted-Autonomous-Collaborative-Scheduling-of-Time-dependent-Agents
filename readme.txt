@@ -1,0 +1,1 @@
+For algorithm GREEDY/K-WTA/MBAS-IGLN, please import the corresponding data folder from the 'Data' folder and run the 'GREEDY.py' /'K-WTA.py' /'MBAS-IGLN.py' and for MADL/MARL please run the 'runner.py' file.
